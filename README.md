@@ -1,2 +1,2 @@
 Preview
-![alt text](https://github.com/hanifheinrich/web-pkk-tanjung-balik/blob/main/preview.png?raw=true)
+![alt text](https://github.com/hanifheinrich/dashboard-nagari-tanjung-balik/blob/main/preview.png?raw=true)
